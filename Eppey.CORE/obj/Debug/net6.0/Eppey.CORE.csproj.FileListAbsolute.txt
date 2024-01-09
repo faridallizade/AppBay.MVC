@@ -1,0 +1,24 @@
+C:\Users\I novbe\source\repos\Eppey.MVC\Eppey.CORE\bin\Debug\net6.0\Eppey.CORE.deps.json
+C:\Users\I novbe\source\repos\Eppey.MVC\Eppey.CORE\bin\Debug\net6.0\Eppey.CORE.dll
+C:\Users\I novbe\source\repos\Eppey.MVC\Eppey.CORE\bin\Debug\net6.0\Eppey.CORE.pdb
+C:\Users\I novbe\source\repos\Eppey.MVC\Eppey.CORE\obj\Debug\net6.0\Eppey.CORE.csproj.AssemblyReference.cache
+C:\Users\I novbe\source\repos\Eppey.MVC\Eppey.CORE\obj\Debug\net6.0\Eppey.CORE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\I novbe\source\repos\Eppey.MVC\Eppey.CORE\obj\Debug\net6.0\Eppey.CORE.AssemblyInfoInputs.cache
+C:\Users\I novbe\source\repos\Eppey.MVC\Eppey.CORE\obj\Debug\net6.0\Eppey.CORE.AssemblyInfo.cs
+C:\Users\I novbe\source\repos\Eppey.MVC\Eppey.CORE\obj\Debug\net6.0\Eppey.CORE.csproj.CoreCompileInputs.cache
+C:\Users\I novbe\source\repos\Eppey.MVC\Eppey.CORE\obj\Debug\net6.0\Eppey.CORE.dll
+C:\Users\I novbe\source\repos\Eppey.MVC\Eppey.CORE\obj\Debug\net6.0\refint\Eppey.CORE.dll
+C:\Users\I novbe\source\repos\Eppey.MVC\Eppey.CORE\obj\Debug\net6.0\Eppey.CORE.pdb
+C:\Users\I novbe\source\repos\Eppey.MVC\Eppey.CORE\obj\Debug\net6.0\ref\Eppey.CORE.dll
+C:\Users\Asus\Desktop\Eppey.MVC\Eppey.CORE\bin\Debug\net6.0\Eppey.CORE.deps.json
+C:\Users\Asus\Desktop\Eppey.MVC\Eppey.CORE\bin\Debug\net6.0\Eppey.CORE.dll
+C:\Users\Asus\Desktop\Eppey.MVC\Eppey.CORE\bin\Debug\net6.0\Eppey.CORE.pdb
+C:\Users\Asus\Desktop\Eppey.MVC\Eppey.CORE\obj\Debug\net6.0\Eppey.CORE.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\Eppey.MVC\Eppey.CORE\obj\Debug\net6.0\Eppey.CORE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\Eppey.MVC\Eppey.CORE\obj\Debug\net6.0\Eppey.CORE.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Eppey.MVC\Eppey.CORE\obj\Debug\net6.0\Eppey.CORE.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Eppey.MVC\Eppey.CORE\obj\Debug\net6.0\Eppey.CORE.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Eppey.MVC\Eppey.CORE\obj\Debug\net6.0\Eppey.CORE.dll
+C:\Users\Asus\Desktop\Eppey.MVC\Eppey.CORE\obj\Debug\net6.0\refint\Eppey.CORE.dll
+C:\Users\Asus\Desktop\Eppey.MVC\Eppey.CORE\obj\Debug\net6.0\Eppey.CORE.pdb
+C:\Users\Asus\Desktop\Eppey.MVC\Eppey.CORE\obj\Debug\net6.0\ref\Eppey.CORE.dll

@@ -1,0 +1,34 @@
+C:\Users\I novbe\source\repos\Eppey.MVC\Eppey.DAL\bin\Debug\net6.0\Eppey.DAL.deps.json
+C:\Users\I novbe\source\repos\Eppey.MVC\Eppey.DAL\bin\Debug\net6.0\Eppey.DAL.runtimeconfig.json
+C:\Users\I novbe\source\repos\Eppey.MVC\Eppey.DAL\bin\Debug\net6.0\Eppey.DAL.dll
+C:\Users\I novbe\source\repos\Eppey.MVC\Eppey.DAL\bin\Debug\net6.0\Eppey.DAL.pdb
+C:\Users\I novbe\source\repos\Eppey.MVC\Eppey.DAL\bin\Debug\net6.0\Eppey.CORE.dll
+C:\Users\I novbe\source\repos\Eppey.MVC\Eppey.DAL\bin\Debug\net6.0\Eppey.CORE.pdb
+C:\Users\I novbe\source\repos\Eppey.MVC\Eppey.DAL\obj\Debug\net6.0\Eppey.DAL.csproj.AssemblyReference.cache
+C:\Users\I novbe\source\repos\Eppey.MVC\Eppey.DAL\obj\Debug\net6.0\Eppey.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\I novbe\source\repos\Eppey.MVC\Eppey.DAL\obj\Debug\net6.0\Eppey.DAL.AssemblyInfoInputs.cache
+C:\Users\I novbe\source\repos\Eppey.MVC\Eppey.DAL\obj\Debug\net6.0\Eppey.DAL.AssemblyInfo.cs
+C:\Users\I novbe\source\repos\Eppey.MVC\Eppey.DAL\obj\Debug\net6.0\Eppey.DAL.csproj.CoreCompileInputs.cache
+C:\Users\I novbe\source\repos\Eppey.MVC\Eppey.DAL\obj\Debug\net6.0\Eppey.DAL.csproj.CopyComplete
+C:\Users\I novbe\source\repos\Eppey.MVC\Eppey.DAL\obj\Debug\net6.0\Eppey.DAL.dll
+C:\Users\I novbe\source\repos\Eppey.MVC\Eppey.DAL\obj\Debug\net6.0\refint\Eppey.DAL.dll
+C:\Users\I novbe\source\repos\Eppey.MVC\Eppey.DAL\obj\Debug\net6.0\Eppey.DAL.pdb
+C:\Users\I novbe\source\repos\Eppey.MVC\Eppey.DAL\obj\Debug\net6.0\Eppey.DAL.genruntimeconfig.cache
+C:\Users\I novbe\source\repos\Eppey.MVC\Eppey.DAL\obj\Debug\net6.0\ref\Eppey.DAL.dll
+C:\Users\Asus\Desktop\Eppey.MVC\Eppey.DAL\bin\Debug\net6.0\Eppey.DAL.deps.json
+C:\Users\Asus\Desktop\Eppey.MVC\Eppey.DAL\bin\Debug\net6.0\Eppey.DAL.runtimeconfig.json
+C:\Users\Asus\Desktop\Eppey.MVC\Eppey.DAL\bin\Debug\net6.0\Eppey.DAL.dll
+C:\Users\Asus\Desktop\Eppey.MVC\Eppey.DAL\bin\Debug\net6.0\Eppey.DAL.pdb
+C:\Users\Asus\Desktop\Eppey.MVC\Eppey.DAL\bin\Debug\net6.0\Eppey.CORE.dll
+C:\Users\Asus\Desktop\Eppey.MVC\Eppey.DAL\bin\Debug\net6.0\Eppey.CORE.pdb
+C:\Users\Asus\Desktop\Eppey.MVC\Eppey.DAL\obj\Debug\net6.0\Eppey.DAL.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\Eppey.MVC\Eppey.DAL\obj\Debug\net6.0\Eppey.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\Eppey.MVC\Eppey.DAL\obj\Debug\net6.0\Eppey.DAL.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Eppey.MVC\Eppey.DAL\obj\Debug\net6.0\Eppey.DAL.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Eppey.MVC\Eppey.DAL\obj\Debug\net6.0\Eppey.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Eppey.MVC\Eppey.DAL\obj\Debug\net6.0\Eppey.DAL.csproj.CopyComplete
+C:\Users\Asus\Desktop\Eppey.MVC\Eppey.DAL\obj\Debug\net6.0\Eppey.DAL.dll
+C:\Users\Asus\Desktop\Eppey.MVC\Eppey.DAL\obj\Debug\net6.0\refint\Eppey.DAL.dll
+C:\Users\Asus\Desktop\Eppey.MVC\Eppey.DAL\obj\Debug\net6.0\Eppey.DAL.pdb
+C:\Users\Asus\Desktop\Eppey.MVC\Eppey.DAL\obj\Debug\net6.0\Eppey.DAL.genruntimeconfig.cache
+C:\Users\Asus\Desktop\Eppey.MVC\Eppey.DAL\obj\Debug\net6.0\ref\Eppey.DAL.dll

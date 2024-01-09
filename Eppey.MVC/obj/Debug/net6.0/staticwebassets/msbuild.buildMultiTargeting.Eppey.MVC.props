@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Eppey.MVC.props" />
+</Project>

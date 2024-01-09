@@ -1,0 +1,34 @@
+C:\Users\I novbe\source\repos\Eppey.MVC\Eppey.BUSINESS\bin\Debug\net6.0\Eppey.BUSINESS.deps.json
+C:\Users\I novbe\source\repos\Eppey.MVC\Eppey.BUSINESS\bin\Debug\net6.0\Eppey.BUSINESS.dll
+C:\Users\I novbe\source\repos\Eppey.MVC\Eppey.BUSINESS\bin\Debug\net6.0\Eppey.BUSINESS.pdb
+C:\Users\I novbe\source\repos\Eppey.MVC\Eppey.BUSINESS\bin\Debug\net6.0\Eppey.CORE.dll
+C:\Users\I novbe\source\repos\Eppey.MVC\Eppey.BUSINESS\bin\Debug\net6.0\Eppey.DAL.dll
+C:\Users\I novbe\source\repos\Eppey.MVC\Eppey.BUSINESS\bin\Debug\net6.0\Eppey.DAL.pdb
+C:\Users\I novbe\source\repos\Eppey.MVC\Eppey.BUSINESS\bin\Debug\net6.0\Eppey.CORE.pdb
+C:\Users\I novbe\source\repos\Eppey.MVC\Eppey.BUSINESS\obj\Debug\net6.0\Eppey.BUSINESS.csproj.AssemblyReference.cache
+C:\Users\I novbe\source\repos\Eppey.MVC\Eppey.BUSINESS\obj\Debug\net6.0\Eppey.BUSINESS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\I novbe\source\repos\Eppey.MVC\Eppey.BUSINESS\obj\Debug\net6.0\Eppey.BUSINESS.AssemblyInfoInputs.cache
+C:\Users\I novbe\source\repos\Eppey.MVC\Eppey.BUSINESS\obj\Debug\net6.0\Eppey.BUSINESS.AssemblyInfo.cs
+C:\Users\I novbe\source\repos\Eppey.MVC\Eppey.BUSINESS\obj\Debug\net6.0\Eppey.BUSINESS.csproj.CoreCompileInputs.cache
+C:\Users\I novbe\source\repos\Eppey.MVC\Eppey.BUSINESS\obj\Debug\net6.0\Eppey.BUSINESS.csproj.CopyComplete
+C:\Users\I novbe\source\repos\Eppey.MVC\Eppey.BUSINESS\obj\Debug\net6.0\Eppey.BUSINESS.dll
+C:\Users\I novbe\source\repos\Eppey.MVC\Eppey.BUSINESS\obj\Debug\net6.0\refint\Eppey.BUSINESS.dll
+C:\Users\I novbe\source\repos\Eppey.MVC\Eppey.BUSINESS\obj\Debug\net6.0\Eppey.BUSINESS.pdb
+C:\Users\I novbe\source\repos\Eppey.MVC\Eppey.BUSINESS\obj\Debug\net6.0\ref\Eppey.BUSINESS.dll
+C:\Users\Asus\Desktop\Eppey.MVC\Eppey.BUSINESS\bin\Debug\net6.0\Eppey.BUSINESS.deps.json
+C:\Users\Asus\Desktop\Eppey.MVC\Eppey.BUSINESS\bin\Debug\net6.0\Eppey.BUSINESS.dll
+C:\Users\Asus\Desktop\Eppey.MVC\Eppey.BUSINESS\bin\Debug\net6.0\Eppey.BUSINESS.pdb
+C:\Users\Asus\Desktop\Eppey.MVC\Eppey.BUSINESS\bin\Debug\net6.0\Eppey.CORE.dll
+C:\Users\Asus\Desktop\Eppey.MVC\Eppey.BUSINESS\bin\Debug\net6.0\Eppey.DAL.dll
+C:\Users\Asus\Desktop\Eppey.MVC\Eppey.BUSINESS\bin\Debug\net6.0\Eppey.DAL.pdb
+C:\Users\Asus\Desktop\Eppey.MVC\Eppey.BUSINESS\bin\Debug\net6.0\Eppey.CORE.pdb
+C:\Users\Asus\Desktop\Eppey.MVC\Eppey.BUSINESS\obj\Debug\net6.0\Eppey.BUSINESS.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\Eppey.MVC\Eppey.BUSINESS\obj\Debug\net6.0\Eppey.BUSINESS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\Eppey.MVC\Eppey.BUSINESS\obj\Debug\net6.0\Eppey.BUSINESS.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Eppey.MVC\Eppey.BUSINESS\obj\Debug\net6.0\Eppey.BUSINESS.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Eppey.MVC\Eppey.BUSINESS\obj\Debug\net6.0\Eppey.BUSINESS.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Eppey.MVC\Eppey.BUSINESS\obj\Debug\net6.0\Eppey.BUSINESS.csproj.CopyComplete
+C:\Users\Asus\Desktop\Eppey.MVC\Eppey.BUSINESS\obj\Debug\net6.0\Eppey.BUSINESS.dll
+C:\Users\Asus\Desktop\Eppey.MVC\Eppey.BUSINESS\obj\Debug\net6.0\refint\Eppey.BUSINESS.dll
+C:\Users\Asus\Desktop\Eppey.MVC\Eppey.BUSINESS\obj\Debug\net6.0\Eppey.BUSINESS.pdb
+C:\Users\Asus\Desktop\Eppey.MVC\Eppey.BUSINESS\obj\Debug\net6.0\ref\Eppey.BUSINESS.dll
